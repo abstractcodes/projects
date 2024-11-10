@@ -1,1 +1,0 @@
-Throughout my programming journey, I have undertaken a range of exciting and challenging projects that have allowed me to demonstrate my skills in the Python programming language. These projects span a variety of applications, from simple scripts to full-fledged applications, and showcase my creativity, problem-solving abilities, and passion for coding.
